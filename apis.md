@@ -4,7 +4,7 @@ x-slug: moz
 description: Backed by the largest community of SEOs on the planet, Moz builds tools
   that make SEO, inbound marketing, link building, and content marketing easy. Start
   your free 30-day trial today!
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/473-seomoz.jpg
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18952-moz.jpg
 x-kinRank: "8"
 x-alexaRank: "2424"
 tags: Moz
@@ -14,18 +14,14 @@ url: https://raw.githubusercontent.com/streamdata-gallery-organizations/moz/mast
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-base
-  url: http://lsapi.seomoz.com/linkscape
 - type: x-blog
-  url: http://moz.com/blog
+  url: https://moz.com/blog
 - type: x-blog-rss
-  url: http://feeds.feedburner.com/mozblog
-- type: x-crunchbase
-  url: http://www.crunchbase.com/company/seomoz
+  url: http://feedpress.me/mozblog
 - type: x-crunchbase
   url: https://crunchbase.com/organization/moz
 - type: x-developer
-  url: http://moz.com/products/api
+  url: https://moz.com/products/api
 - type: x-email
   url: legal@moz.com
 - type: x-email
@@ -48,14 +44,14 @@ x-common:
   url: kiki@moz.com
 - type: x-github
   url: https://github.com/seomoz
+- type: x-partners
+  url: https://moz.com/partners
 - type: x-pricing
-  url: https://moz.com/products/pro/pricing
+  url: https://moz.com/products/api/pricing
 - type: x-twitter
-  url: https://twitter.com/seomoz
-- type: x-twitter
-  url: https://twitter.com/Moz
+  url: https://twitter.com/moz
 - type: x-website
-  url: http://www.seomoz.org
+  url: https://moz.com
 include: []
 maintainers:
 - FN: Kin Lane
